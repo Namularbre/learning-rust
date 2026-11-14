@@ -1,0 +1,6 @@
+[package]
+name = "exo-02-chaines"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
