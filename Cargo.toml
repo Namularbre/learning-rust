@@ -1,0 +1,3 @@
+[workspace]
+members = ["exo-*"]
+resolver = "2"
